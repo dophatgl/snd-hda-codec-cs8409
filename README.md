@@ -12,11 +12,11 @@ Download the driver
 git clone https://github.com/egorenar/snd-hda-codec-cs8409
 
 Finally, compile and install the driver
-
+```
 cd snd-hda-codec-cs8409
 make
 sudo make install
-
+```
 Reboot the computer and sound should work.
 
 #Ref
